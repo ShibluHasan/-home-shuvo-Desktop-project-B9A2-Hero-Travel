@@ -10,13 +10,7 @@ body {
 
 
 }
-/* .header{
-  position: fixed;
-  top: 0;
-  width: 100%;
-  background-color: #FFF;
-  z-index: 100;
-} */
+
 
 p,
 li {
@@ -73,7 +67,8 @@ nav a {
   color: white;
   transform: translate(-50%, -50%);
 }
-.hello{
+
+.hello {
   position: absolute;
   top: 60%;
   left: 60%;
@@ -81,6 +76,7 @@ nav a {
   border-radius: 10px;
   transform: translate(-50%, -50%);
 }
+
 .box {
   position: relative;
   border-radius: 16px;
